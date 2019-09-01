@@ -11,7 +11,6 @@ third-party integration crates that will get you there.
     - [Warp](warp.md)
     - [Rocket](rocket.md)
     - [Iron](iron.md)
-    - [Hyper](hyper.md)
 - [Third Party Integrations](third-party.md)
     - [Actix-Web](https://github.com/actix/examples/tree/master/juniper)
     - [Finchers](https://github.com/finchers-rs/finchers-juniper)
